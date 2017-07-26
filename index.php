@@ -18,9 +18,9 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,600' rel='stylesheet' type='text/css'>
 	<!--<script src="js/jquery.min.js"></script>-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-	<script src="js/snap.svg.min.js"></script>
-	<script src="js/velocity.min.js"></script>
-	<script src="js/script.js"></script>
+	<script  type="text/javascript" src="js/snap.svg.min.js"></script>
+	<script  type="text/javascript" src="js/velocity.min.js"></script>
+	<script  type="text/javascript" src="js/script.js"></script>
 	<style type="text/css">
 		html, body {
 			font-family: 'Open Sans';
